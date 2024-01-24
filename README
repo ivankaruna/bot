@@ -1,0 +1,9 @@
+Запуск программы выполняется командами:
+    npm run start   прод
+    npm run dev     дев
+
+Настройка логирования: 
+    npm run start || npx pino-pretty
+    npm run dev || npx pino-pretty   
+
+Запуск

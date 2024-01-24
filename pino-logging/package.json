@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jq": "^1.7.2",
+    "pino": "^8.16.2"
+  },
+  "devDependencies": {
+    "pino-pretty": "^10.2.3"
+  }
+}
